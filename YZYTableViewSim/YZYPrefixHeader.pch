@@ -1,0 +1,19 @@
+//
+//  YZYPrefixHeader.pch
+//  TableViewSim
+//
+//  Created by 杨志远 on 16/11/9.
+//  Copyright © 2016年 杨志远. All rights reserved.
+//
+
+#ifndef YZYPrefixHeader_pch
+#define YZYPrefixHeader_pch
+
+
+
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
+
+
+
+#endif /* YZYPrefixHeader_pch */
